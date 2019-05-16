@@ -8,6 +8,13 @@ Ini adalah koleksi template inkscape yang saya gunakan
 2. Simpan semua file SVG ke dalam `~/.config/inkscape/templates/`
 3. Done
 
+Quick Install:
+
+```bash
+cd ~/.config/inkscape/
+git clone --depth=1 git@github.com:ardianta/inkscape-template.git templates
+```
+
 ## Cara Pakai
 
 1. Buka Inkscape
