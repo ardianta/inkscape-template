@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="820"
+   height="312"
+   viewBox="0 0 819.99998 312.00001"
+   version="1.1"
+   id="svg854"
+   sodipodi:docname="FB Cover.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs848" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="376.12764"
+     inkscape:cy="154.15955"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1338"
+     inkscape:window-height="739"
+     inkscape:window-x="28"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="132.32998,221.22342"
+       orientation="1,0"
+       id="guide828"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="686.90372,83.842664"
+       orientation="1,0"
+       id="guide830"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="448.50772,337.39096"
+       orientation="0,1"
+       id="guide832"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="387.89857,-24.243662"
+       orientation="0,1"
+       id="guide834"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="88.893422,150.51273"
+       orientation="1,0"
+       id="guide836"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="729.33012,58.58885"
+       orientation="1,0"
+       id="guide838"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata851">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-810.51962)">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect812"
+       width="640"
+       height="360"
+       x="90"
+       y="786.51959" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.07988167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.35199705"
+       x="93.457657"
+       y="776.37811"
+       id="text816"><tspan
+         sodipodi:role="line"
+         id="tspan814"
+         x="93.457657"
+         y="776.37811"
+         style="stroke-width:0.35199705">mobile</tspan></text>
+    <text
+       id="text820"
+       y="798.81403"
+       x="3.6543939"
+       style="font-style:normal;font-weight:normal;font-size:13.05775928px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.32644397"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.32644397"
+         y="798.81403"
+         x="3.6543939"
+         id="tspan818"
+         sodipodi:role="line">Desktop</tspan></text>
+    <rect
+       y="811.17773"
+       x="132.69322"
+       height="311.97012"
+       width="554.61359"
+       id="rect822"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.8665837;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text826"
+       y="802.38928"
+       x="135.68958"
+       style="font-style:normal;font-weight:normal;font-size:12.20139694px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.30503488"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.30503488"
+         y="802.38928"
+         x="135.68958"
+         id="tspan824"
+         sodipodi:role="line">Display on mobile</tspan></text>
+  </g>
+</svg>
